@@ -4,10 +4,7 @@ But in general, this can be easily corrected and the formulas can be made even m
 
 ### MAIN
 Accuracy: 95-98% | If Rank <=460
-Formula: MMR = -448.45658 * ln(9264.01245 * "RANK") + 17242.22337
-
 Accuracy: 98-99% | If Rank>460
-Formula: MMR = -1248.02749 * ln(1861.20536 * "RANK") + 27052.29973
 
 ### Example:
 Rank 131 | ~ 11000-11150 MMR
